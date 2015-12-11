@@ -57,34 +57,19 @@ body {
 	
 }
 
-.Stage0 {
+.Block1 {
 	background-color: yellow;
 	border-radius: 20px;
 	color: navy;
 	padding: 5px;
 	margin: 5px auto;
 }
-.Stage1 {
+.Block2 {
 	background-color: white;
 	border-radius: 20px;
 	color: navy;
 	padding: 5px;
 	margin: 5px auto;
-}
-.Stage2 {
-	background-color: yellow;
-	border-radius: 20px;
-	color: navy;
-	padding: 5px;
-	margin: 5px auto;
-}
-.Stage3 {
-	background-color: white;
-	border-radius: 20px;
-	color: navy;
-	padding: 5px;
-	margin: 5px auto;
-}
 .CodingResources {
 	background-color: gray;
 	border-radius: 20px;
