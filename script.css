@@ -1,0 +1,97 @@
+/* This is a CSS comment.*/
+body {
+	padding: 20px 10px;
+	font-family: Verdana;
+	max-width: 2000px;
+	margin: 0 auto; /* The 0 refers to the top and bottom margins and the "auto" automatically */
+	font-size: 0.6em;
+	background-color:white;
+}
+
+
+.canvas {
+	background-color: gray;
+	border-radius: 20px;
+	color: white;
+	padding: 5px;
+	margin: 5px auto;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	
+}
+
+.title {
+	background-color: yellow;
+	border-radius: 20px;
+	color: navy;
+	padding: 5px;
+	margin: 5px auto;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	
+}
+
+.Notes {
+	background-color: navy;
+	border-radius: 20px;
+	color: yellow;
+	padding: 5px;
+	margin: 5px auto;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	
+}
+
+.Resources {
+	background-color: gray;
+	border-radius: 20px;
+	color: white;
+	padding: 5px;
+	margin: 5px auto;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	
+}
+
+.Stage0 {
+	background-color: yellow;
+	border-radius: 20px;
+	color: navy;
+	padding: 5px;
+	margin: 5px auto;
+}
+.Stage1 {
+	background-color: white;
+	border-radius: 20px;
+	color: navy;
+	padding: 5px;
+	margin: 5px auto;
+}
+.Stage2 {
+	background-color: yellow;
+	border-radius: 20px;
+	color: navy;
+	padding: 5px;
+	margin: 5px auto;
+}
+.Stage3 {
+	background-color: white;
+	border-radius: 20px;
+	color: navy;
+	padding: 5px;
+	margin: 5px auto;
+}
+.CodingResources {
+	background-color: gray;
+	border-radius: 20px;
+	color: white;
+	padding: 5px;
+	margin: 5px auto;
+}
+.textcode{
+	font-family:Courier;
+}
